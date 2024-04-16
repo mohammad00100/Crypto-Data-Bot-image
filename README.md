@@ -1,11 +1,5 @@
 # Crypto-Data-Bot-image
 
-Here's a professional README file for this script on GitHub:
-
----
-
-# CryptoData Bot
-
 CryptoData Bot is a Telegram bot designed to provide users with historical cryptocurrency data from the Binance exchange. Users can select a cryptocurrency (ADA, BTC, or ETH) and a time frame (1 hour, 4 hours, or 1 day) to retrieve historical price data and visualize it on a chart.
 
 ## Features
